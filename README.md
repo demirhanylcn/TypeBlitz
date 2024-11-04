@@ -1,4 +1,4 @@
-# TypeBlitz
+# TypeBlitz (JavaFX)
 Summer Semester 2023, GUI Project #2
 
 TypeBlitz is a typing speed game developed in Java. This project allows users to improve their typing skills by testing their speed and accuracy with random words. The game features word color-coding, dynamic word generation, and support for different languages.
