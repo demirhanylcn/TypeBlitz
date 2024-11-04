@@ -1,0 +1,34 @@
+asilone -> 59.266820047001886 wpm
+gambini -> 55.74653906903279 wpm
+strode -> 57.648605293645836 wpm
+græde -> 41.08946258195699 wpm
+markedspladsen -> 38.83302939508039 wpm
+legitime -> 28.25456138935701 wpm
+fokuserer -> 26.15486018249473 wpm
+tørster -> 26.238694904650316 wpm
+mandalay -> 26.253841639437262 wpm
+fuzzy -> 26.4700991572931 wpm
+ephraim -> 26.537008807338363 wpm
+vincennes -> 26.467702230459803 wpm
+hallucinere -> 26.275947498154427 wpm
+joan -> 26.53617542400454 wpm
+volde -> 26.760409190984173 wpm
+on -> 27.137623936858454 wpm
+tygget -> 27.249382199242344 wpm
+præsidenter -> 27.05869145319566 wpm
+woodbury -> 27.051880434445685 wpm
+syndsforladelse -> 26.602627326146404 wpm
+collie -> 26.71377789808872 wpm
+filosof -> 26.765931925313136 wpm
+databaser -> 26.71112432715648 wpm
+corn -> 26.923924672841856 wpm
+leila -> 27.076687195178344 wpm
+
+Overall Statistics:
+Average WPM: 26.99940110419369
+Character Statistics:
+Correct: 55
+Incorrect: 16
+Omitted: 150
+Redundant: 7
+% Correct Characters: 24.12280701754386
