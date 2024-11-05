@@ -1,3 +1,5 @@
+package Games.src;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.input.KeyEvent;
@@ -19,7 +21,7 @@ public class Run extends Application {
 
         primaryStage.setResizable(true);
         primaryStage.setScene(scene);
-        primaryStage.getScene().getStylesheets().add("styles.css");
+        primaryStage.getScene().getStylesheets().add("Games/src/styles.css");
         primaryStage.show();
 
         Utilities.gameFinishedProperty().addListener((observable, oldValue, newValue) -> {

@@ -1,0 +1,55 @@
+.custom-text-flow {
+    -fx-font-family: 'Verdana';
+    -fx-font-size: 25px;
+    -fx-padding: 45px;
+}
+
+.text-fill {
+    -fx-fill: lightgrey;
+}
+
+.custom-slider {
+    -fx-font-family: 'Verdana';
+    -fx-font-size: 15px;
+    -fx-background-color: transparent;
+    -fx-padding: 5px;
+}
+
+.custom-choice-box {
+    -fx-font-size: 14;
+    -fx-font-family: 'Verdana';
+    -fx-border-color: BLACK;
+    -fx-padding: 0 0 0 0;
+    -fx-background-insets: 0;
+    -fx-background: transparent;
+}
+
+.shortcut-box {
+    -fx-font-size: 15;
+    -fx-font-family: 'Verdana';
+    -fx-background-color: WHITE;
+    -fx-padding: 10px;
+}
+
+.custom-choice-box .menu-item:focused {
+    -fx-background-color: darkgray;
+    -fx-text-fill: white;
+}
+
+.custom-choice-box .menu-item:hover {
+    -fx-background-color: BLACK;
+    -fx-text-fill: white;
+}
+
+.app-background {
+    -fx-background-color: white;
+}
+
+.monkey-type-chart {
+    -fx-background-color: #f2f2f2;
+    -fx-border-color: #c0c0c0;
+}
+
+.monkey-type-chart .chart-plot-background {
+    -fx-background-color: #2f302f;
+}

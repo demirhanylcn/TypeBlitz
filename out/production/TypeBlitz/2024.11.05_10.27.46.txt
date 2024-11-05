@@ -1,0 +1,17 @@
+ncapo -> 30.8397668513626 wpm
+balshazar -> 35.834016834024794 wpm
+riguardiamola -> 36.2719142815451 wpm
+securicor -> 36.88571104301441 wpm
+commovendo -> 33.6338706531025 wpm
+trillian -> 31.996847316287027 wpm
+zhongxing -> 31.90237564816149 wpm
+
+Overall Statistics:
+Language selected: italian
+Average WPM: 32.842589259210136
+Character Statistics:
+Correct: 78
+Incorrect: 0
+Omitted: 0
+Redundant: 0
+% Correct Characters: 100.0

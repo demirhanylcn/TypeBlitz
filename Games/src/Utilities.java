@@ -1,3 +1,5 @@
+package Games.src;
+
 import javafx.animation.KeyFrame;
 import javafx.animation.PathTransition;
 import javafx.animation.Timeline;

@@ -1,3 +1,5 @@
+package Games.src;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -12,7 +14,7 @@ public class WordGenerator {
         wordList = new ArrayList<>();
 
 
-        String filePath = "C:\\Users\\demir\\Documents\\codes\\TypeBlitz\\Games\\dictionary\\   " + selectedLanguage + ".txt";
+        String filePath = "C:\\Users\\demir\\Documents\\codes\\TypeBlitz\\Games\\dictionary\\" + selectedLanguage + ".txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;

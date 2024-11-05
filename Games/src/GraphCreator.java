@@ -1,3 +1,5 @@
+package Games.src;
+
 import javafx.animation.PathTransition;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -84,6 +86,7 @@ public class GraphCreator {
                 }
 
                 writer.println("\nOverall Statistics:");
+                writer.println("Language selected: " + Utilities.getSelectedLanguage());
                 writer.println("Average WPM: " + calculateOverallWPM());
                 writer.println("Character Statistics:");
                 writer.println("Correct: " + statusArr[0]);
@@ -175,7 +178,7 @@ public class GraphCreator {
             Scene scene = new Scene(mainVBox, 800, 600);
             animateLabels(overallWPMLabel, percentageCorrectLabel, statusArrLabel, scene);
             scene.getStylesheets().add("styles.css");
-            newStage.getIcons().add(new Image("/images/monkeytype.png"));
+            newStage.getIcons().add(new Image("Games/src/images/monkeytype.png"));
 
             newStage.setTitle("MonkeyType Graph");
             newStage.setScene(scene);
