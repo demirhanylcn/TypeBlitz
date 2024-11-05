@@ -1,0 +1,16 @@
+derrick -> 5.536178929302995 wpm
+hamskifter -> 23.110160767350713 wpm
+champignoner -> 28.58099337476695 wpm
+bucket -> 33.089687284665004 wpm
+velvalgt -> 28.942855318341543 wpm
+fist -> 30.56886835094454 wpm
+
+Overall Statistics:
+Language selected: danish
+Average WPM: 23.1859902854061
+Character Statistics:
+Correct: 46
+Incorrect: 13
+Omitted: 0
+Redundant: 4
+% Correct Characters: 73.01587301587301

@@ -26,6 +26,6 @@ src: Contains the main Java source files.
 - **LanguageLoader.java**: Loads different dictionaries for language support.
 - **GraphCreator.java**: Creates and manages graphical elements.
 - **WordColorHandler.java**: Manages the color coding of words based on user interaction.
-- **styles.css**: CSS file for styling the game interface.
+- **Games.src.styles.css**: CSS file for styling the game interface.
 - **dictionary**: Contains language dictionaries for word generation.
 

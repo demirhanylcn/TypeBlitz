@@ -1,0 +1,13 @@
+coördinatie -> 2.1647937192118225 wpm
+oorringen -> 7.650338968865082 wpm
+tricia -> 10.734118275671241 wpm
+
+Overall Statistics:
+Language selected: dutch
+Average WPM: 14.534695934161057
+Character Statistics:
+Correct: 30
+Incorrect: 8
+Omitted: 0
+Redundant: 0
+% Correct Characters: 78.94736842105263

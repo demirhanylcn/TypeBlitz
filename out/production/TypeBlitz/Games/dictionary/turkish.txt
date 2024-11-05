@@ -45622,7 +45622,7 @@ bağlantınız
 bilgeliği
 lions
 ikiyi
-styles
+Games.src.styles
 bunlarin
 projesinde
 arkadaşıdır

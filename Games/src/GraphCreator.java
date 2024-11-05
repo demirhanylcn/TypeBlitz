@@ -77,10 +77,12 @@ public class GraphCreator {
 
     public static void saveTestResults() {
         try {
+
+            String savePath = "Games/src/testResults/";
             SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy.MM.dd_HH.mm.ss");
             String fileName = dateFormat.format(new Date()) + ".txt";
 
-            try (PrintWriter writer = new PrintWriter(new FileWriter(fileName))) {
+            try (PrintWriter writer = new PrintWriter(new FileWriter(savePath + fileName))) {
                 for (String result : wordList) {
                     writer.println(result);
                 }
@@ -177,7 +179,7 @@ public class GraphCreator {
 
             Scene scene = new Scene(mainVBox, 800, 600);
             animateLabels(overallWPMLabel, percentageCorrectLabel, statusArrLabel, scene);
-            scene.getStylesheets().add("styles.css");
+            scene.getStylesheets().add("Games/src/styles/styles.css");
             newStage.getIcons().add(new Image("Games/src/images/monkeytype.png"));
 
             newStage.setTitle("MonkeyType Graph");
