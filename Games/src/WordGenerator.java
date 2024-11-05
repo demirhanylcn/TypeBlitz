@@ -14,7 +14,7 @@ public class WordGenerator {
         wordList = new ArrayList<>();
 
 
-        String filePath = "C:\\Users\\demir\\Documents\\codes\\TypeBlitz\\Games\\dictionary\\" + selectedLanguage + ".txt";
+        String filePath = "Games/dictionary/" + selectedLanguage + ".txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
