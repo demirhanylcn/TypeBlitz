@@ -12,7 +12,7 @@ TypeBlitz is a typing speed game developed in Java. This project allows users to
 - **User Interface**: Simple and intuitive UI built using Java and CSS for styling.
 
 ## Installation
-Clone the repository: git clone [https://github.com/demirhanylcn/TypeBlitz](https://github.com/demirhanylcn/TypeBlitz) cd TypeBlitz
+Clone the repository: git clone `https://github.com/demirhanylcn/TypeBlitz.git` cd TypeBlitz
 
 Build the project: Open the project in your preferred Java IDE (e.g., IntelliJ IDEA). Build the project to resolve dependencies.
 
